@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of very good service done by the Antilope and some other ships, under the Earle of Warwicks command at Barwicke, Newcastle, and the Holy Island, the latter end of May, and beginning of Iune last 1643. Faithfully expressed in a letter from a Gentleman of quality, who was in the service, to a friend of his in London.</title>
+            <author>Gentleman of quality who was in the service.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95295</idno>
+            <idno type="STC">Wing T3077</idno>
+            <idno type="STC">Thomason E59_6</idno>
+            <idno type="STC">ESTC R3397</idno>
+            <idno type="EEBO-CITATION">99872366</idno>
+            <idno type="PROQUEST">99872366</idno>
+            <idno type="VID">155282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155282)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E59[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of very good service done by the Antilope and some other ships, under the Earle of Warwicks command at Barwicke, Newcastle, and the Holy Island, the latter end of May, and beginning of Iune last 1643. Faithfully expressed in a letter from a Gentleman of quality, who was in the service, to a friend of his in London.</title>
+                  <author>Gentleman of quality who was in the service.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Iuly 4. Printed by Elizabeth Purslow,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: [illegible].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Antilope (Ship)</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155282:1" rendition="simple:additions"/>
+            <p>A True RELATION Of VERY GOOD SERVICE Done by the ANTILOPE And ſome other ſhips, under the Earle of <hi>Warwicks</hi> Command, at <hi>Barwicke, Newcaſtle,</hi> and the <hi>Holy Island,</hi> the latter end of <hi>May,</hi> and beginning of <hi>Iune</hi> laſt 1643.</p>
+            <p>Faithfully expreſſed in a Letter from a Gen<g ref="char:EOLhyphen"/>tleman of Quality, who was in the Service, to a friend of his in London,</p>
+            <figure>
+               <figDesc>woodcut of person standing beneath a tree</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Iuly 4. Printed by <hi>Elizabeth Purſlow.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:155282:2"/>
+            <pb facs="tcp:155282:2"/>
+            <head>From Aboard HIS MAIESTIES SHIP called the <hi>ANTILOPE.</hi>
+            </head>
+            <head type="sub">In Holy-Iſland Road, upon the Coaſt of Nor<g ref="char:EOLhyphen"/>thumberland, this 11 of Iune, 1643.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have thought good hereby to acquaint you with our proſperous ſucceſſe in the North parts of this Kingdome, which is thus. On the <hi>19</hi> of <hi>May</hi> we ſet ſaile out of the <hi>Downes</hi> with a Convoy of ten Ships for <hi>Holland,</hi> and arrived ſafe at <hi>Amſter<g ref="char:EOLhyphen"/>dam</hi> the <hi>21,</hi> on which day we ſaild againe for <hi>New-Caſtle</hi> Barre, and ten Leagues to the South<g ref="char:EOLhyphen"/>ward of <hi>New-Caſtle,</hi> we met with <hi>7</hi> or <hi>8</hi> ſaile of our own men of War, which we ſent away from the <hi>Downes</hi> when we went for <hi>Holland,</hi> ſo wee tooke them under our Command and gave them the Co<g ref="char:EOLhyphen"/>lours of our Squadron. <hi>May</hi> the <hi>24</hi> we came right before <hi>Tynmouth</hi> Barre, and with our Ship ſtood right in before the Caſtle, and within ſhot of it to ſee if they would ſhoot at us, but they did not, neither did we at them, the wind then being faire, and Weſt
+<pb facs="tcp:155282:3"/>North-Weſt, we diſcovered two Ships comming over the Barre, before they were aware of us, and when we were within ken of them, they could not go backe (being much amazed to ſee our Ships on ſuch a ſuddaine) but checked into the Shore, thinking to ſtand to their heeles, but wee firing ſix pieces of Ordnance at them, made them ſubmit, whereupon they bore up to us, and ſo wee made them lawfull Prize, upon examination wee found them to be of <hi>Lyn,</hi> and had carried Corne to <hi>Newcaſtle,</hi> for the re<g ref="char:EOLhyphen"/>liefe of the Romiſh Rout, and Anti-Chriſtian crew there, whereupon the Caſtle was preſently in an up<g ref="char:EOLhyphen"/>reare, we obſerving the ſouldiers running too and againe, expecting ſtill when they would ſhoot at us, but they did not, being belike iealous of the lower-Townes men, whom they feared would have taken our Part, and doubtleſſe they would have done ſo, had we proceeded on: we came then to an Anchor be<g ref="char:EOLhyphen"/>fore the Bar, about Sun ſet, and that night we had a well-wiſher who ſtole off in a boat, and gave us intelligence of a great Papiſt that lived about a mile North from the Caſtle, within halfe a mile off the ſhoare, the Houſe I knew well, and the owner thereof, one Mr. <hi>Cramlington</hi> of <hi>Newſham,</hi> who had made ready halfe a dozen Horſes and Men to goe to the Earle of <hi>New Caſtles</hi> Army, whereup<g ref="char:EOLhyphen"/>on I animated the Captaine to p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>event his going, and likewiſe I undertooke to be their guide, ſo a<g ref="char:EOLhyphen"/>bout <hi>12</hi> a Clocke at night, we armed foureſcore men, well provided, whom we landed on the ſhoare, and thence march't up in order unto the Houſe, and pla<g ref="char:EOLhyphen"/>cing our Centinels, round about it, we repaired firſt
+<pb facs="tcp:155282:3"/>to the Stable, thinking to make all ſure there, but we found not onely all the Horſes gon, but the Gen<g ref="char:EOLhyphen"/>tleman himſelfe, the day before? after ſome ſmall oppoſition, we entred the Houſe, but found no Am<g ref="char:EOLhyphen"/>munition at all therein, whereupon our Souldiers plundered it, &amp; ſo return'd on Ship-board. The next morning we ſet ſaile for <hi>Barwick,</hi> and that day came before the Towne, the Maior and Townes-men were wavering, but upon ſight of our ſhips became firme for the King and Parliament: that night wee ſet about a hundred ſouldiers on ſhore, and marched to Colonell <hi>Haggerſtons</hi> of <hi>Haggerſton</hi> Caſtle, five miles ſouth of <hi>Barwicke,</hi> which Caſtle we preſent<g ref="char:EOLhyphen"/>ly tooke in, and the Colonell and his ſon Priſoners, having them ab card at this preſent, to be ſent up to the Parliament, by the next firſt convenient prize we take: we are certainely informed he was raiſing a Regiment of Horſe for the Popiſh Army, I was of his acquaintance, and likewiſe knew him to bee one of the moſt Arch-Papiſts in thoſe Parts; but my forwardneſſe in this ſervice againſt him, he tooke moſt unkindly, that I ſhould have my finger in ſuch Pies. Our Plunder there, worth <hi>300 li.</hi> was the next morning divided before his face aboard the ſhip. Leaving <hi>Barwicke</hi> in a poſture of Defence for King &amp; Parliament, &amp; a man of war to ride before the town as they deſired, on the <hi>29</hi> of <hi>May</hi> we ſet ſayle from thence for the <hi>Holy-Iſland,</hi> (ſix miles from <hi>Barwick</hi>) and ſummoned the Caſtle for King and Parliament, but being denyed by the Captaine, we let flye a broad ſide at it, &amp; were anſwered again in our own langu<g ref="char:EOLhyphen"/>age, the Cann<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns thus playing a while on both ſides,
+<pb facs="tcp:155282:4"/>and yet no hurt done, we running in with our ſhips under the Caſtle, and landing a hundred men they came to a Parley, and yeelded upon condition to have payed unto them a yeares pay due to them from his Majeſty, the which we promiſed to doe; And ſo the firſt of <hi>June</hi> we tooke the impregnable Caſtle of <hi>Holy-Iſland</hi> (which forty men may keepe againſt foure thouſand without any blood) this Caſtle we have fortified with our owne men, and ſome of the old Souldiers who refuſed to fight, wee have now ſome foureteene ſayle this day with us. The generality of the people in and about <hi>Newcaſtle</hi> pray for us, &amp; hope that we will freethem from the cruelty they ſuffer at this time, I hope it will be the firſt newes you heare from me.</p>
+            <p>Theſe things are well known for truth, therfore you may be bold to acquaint your friends with them if you pleaſe; we have ſecured <hi>Barwick,</hi> taken the <hi>Holy-Iſland,</hi> Towne and Caſtle; one of the greateſt Souldiers in <hi>Northumberland</hi> is priſoner with his ſon a Captaine, plundered the Papiſts, and ſtruck the Country thereabouts into a Feavor, we take divers prizes, pray for the Comming of the Danes, with whom we are ready to Encoun<g ref="char:EOLhyphen"/>ter, chaſe the Dunkirkers, cheriſh the commons of <hi>Newcaſtle,</hi> fright the Magiſtrates, and ſhut up their Haven, the next Newes you heare from me, will be about ſome ſervice, we expect to performe againſt <hi>Newcaſtle</hi> it ſelfe and then I will write to you more at large.</p>
+            <p>I had almoſt forgot to ſignifie to you, that this great Colonell whom we have taken had like to have
+<pb facs="tcp:155282:4"/>made an eſcape away, for at our firſt entrance into the Caſtle, he ſlipt out at a back doore &amp; was moun<g ref="char:EOLhyphen"/>ted on horſeback, but being eſpied by the Souldi<g ref="char:EOLhyphen"/>ers, they fired foure Muskets at him, kild his Horſe dead on the place, ſhot his man through the boote top, but kild neither of them, both he and his ſon were newly come from the Earle of <hi>Newcaſtles</hi> Army, and were then rayſing a Regiment of Horſe for his ſervice; that night there was <hi>7.</hi> Troops of Horſe within two miles of his Caſtle, which wee knew not of, but I wonder how they could for<g ref="char:EOLhyphen"/>beare laughing the next morning, when they came to heare their Colonell ſnapped up by a Ship, wee had no ſooner brought them to our boat, and got all our men and luggage into them, but downe came his Troope to the Sea-ſide, (our Ship riding a mile and halfe from the ſhoare) where ſitting on Horſebacke, they diſcharged their Piſtols at us, but we being out of thereach of them, fired ſome of our Muſkets againe at them from the Ship, and ſo we parted.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>July 3. 1643.</p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>H. Walley.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
